@@ -24,8 +24,12 @@ You need Python installed, along with these libraries:
 
 Install dependencies with:
 
+
+```
+
 ```bash
 pip install pillow numpy tqdm
+```
 
 <h3> ✨ Set Parameters in the Script
 
